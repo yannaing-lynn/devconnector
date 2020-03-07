@@ -1,0 +1,6 @@
+{
+  "mongoURI": "localhost:27017",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
